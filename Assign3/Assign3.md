@@ -15,6 +15,7 @@ Update at 4:30 PM on September 27:
 
 A student has pointed out that if the cost depends on the number of hours that a bike was rented for (as it probably should ...) then storing the hours and the cost in the same table would violate 3NF.  That's true, and I have changed the rubric to indicate that we will accept 2NF (since we don't want to require what you would do in practice, which is to make the cost a computed value -- having the cost as a strored value is fine for this assignment, even though it violated 3NF).
 
+### Score: 5/5
 | Criteria | Comments | Points |
 | ----------- | ----------- |  ----------- |
 | Working Access database | Nice database | 2/2 |
