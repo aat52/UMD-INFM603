@@ -1,3 +1,5 @@
+## Data Integration
+
 In this assignment we will do some data cleaning and enhancement, create linked data, and then use that linked data to answer some SPARQL queries.  The two sources that we will use are:
 * Wikidata (https://www.wikidata.org/)
 * NASA Flight Controllers Table (https://www.mannedspaceops.org/ -- select Personnel from the top menu bar, and then Master Database)
@@ -17,4 +19,14 @@ Upload to ELMS a document (in Word, PDF, or text) with your SPARQL queries, an e
 - [x] Correct linking to Wikidata identifiers of several names that were not previously correctly linked, as indicated by identifier values in the added spreadsheet column.
 - [x] Correct generation of linked data triples in Turtle format for at least 20 representative individuals that match the content of the updated spreadsheet.
 - [x] At least three SPARQL queries, including one that meets the specific requirements of the assignment (including the correct birthday).
+
+
+### Score: 5/5
+| Criteria | Comments | Points |
+| ----------- | ----------- |  ----------- |
+| Shift Numbers | Great job and organization! | 1/1 |
+| Name Cleanup | Nice! Even if it did pick up some nicknames/preferred names as suffix, that is ok | 1/1 |
+| Name Resolution | Nice job! | 1/1 |
+| Linked Data Triples| Great job! | 1/1 |
+| SPARQL Queries | Great queries. | 1/1 |
 
