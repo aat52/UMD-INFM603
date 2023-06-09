@@ -10,3 +10,5 @@ In this assignment we will create data from natural language text. We'll use spa
 4. Create an excel spreadsheet in which you provide two sorted lists showing the most commonly referenced entities, in decreasing order of mentions or references, as counted in step 3.
 
 Upload your spreadsheet and a link to the Colab notebook that you used to assemble the raw data that you used to compute those statistics to ELMS.
+
+### Score: 5/5
