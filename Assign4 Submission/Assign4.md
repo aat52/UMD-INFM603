@@ -1,7 +1,6 @@
 In this assignment we will do some data cleaning and enhancement, create linked data, and then use that linked data to answer some SPARQL queries.  The two sources that we will use are:
 * Wikidata (https://www.wikidata.org/)
-* NASA Flight Controllers Table (https://www.mannedspaceops.org/
-* -- select Personnel from the top menu bar, and then Master Database)
+* NASA Flight Controllers Table (https://www.mannedspaceops.org/ -- select Personnel from the top menu bar, and then Master Database)
 
 You will do this in four steps:
 
