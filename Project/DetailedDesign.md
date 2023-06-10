@@ -9,3 +9,14 @@ The second section should describe the implementation details. The section shoul
 The third and final section should describe the ways in which you plan to test your system. This section will not be graded, but it will give you an opportunity to think strategically about the role of testing during system development, and it is possible that obvious gaps in your testing strategy may give me ideas on some things that I should be on the lookout for when I try out the results of your project!
 
 ### Score: 10/10
+
+## Feedback
+- missing backend requirements
+- expand on capabilities and limitations in section 1
+  - words like "eliminate" and "real" are too strong and need to be explained
+- how are paywalls handled?
+- explain how parsing will happen
+- real news detection section needs to be simplified
+- drop the database and website component and focuse solely on the Python programming
+- expand on system testing; who and how
+- requirements for kept results?
