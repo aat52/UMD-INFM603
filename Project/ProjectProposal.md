@@ -1,3 +1,5 @@
+# Project Proposal
+
 There are four requirements that your proposed project must meet:
 
 1. The goal of your project must be grounded in external reality, not in something that you have made up. In particular, your project must have one or more external customers who you believe actually need what you will build.  These can be actual people who you know (e.g., a friend of yours who needs a payroll management system for a startup they are creating), or it can be a group of people who you know about (e.g., first-year MIM students who want to be matched with second-year MIM students as mentors).  The person who needs what you will create cannot be a member of your team -- your project must be grounded in the real needs of others.
@@ -10,3 +12,51 @@ You will be assigned to a specific role (project manager, designer, implementati
 The project plan should be about 3 pages (single-spaced; please don't waste "paper" by double-spacing). It should identify the students and their assigned roles, specifically identify the external stakeholder(s) who need the project and the organizational context in which it will be used, describe the task that the project helps to accomplish and identify specific requirements for the system that will be built, describe the computational infrastructure needs of the project and how they will be satisfied, and include a schedule and a task division among the team members.
 
 Only one project member needs to upload the project proposal to ELMS per project team.  Approvals or assignment to a different project are expected to be completed within at most four days so that you will have time to work on your detailed design.  At that time you will also be assigned a project mentor, who will either be the professor or the TA.  Your mentor will be your primary source for advice as you work on your project.
+
+<div style="page-break-after: always"></div>
+
+## Submission
+
+Team 9
+
+Angela Tseng
+
+Yogesh Boricha
+
+Abdul Shaik
+
+Sadaf Davre
+
+Project Proposal
+
+Team 9 consists of 4 members. Angela Tseng acts as the Project Manager, monitoring
+the activities of the team and supporting wherever is needed. Yogesh Boricha handles the role
+of Designer, creatively. Sadaf Davre works as the Programmer, also known as the implementor.
+As Programming Mentor, also known as the implementation lead, Abdul Shaik oversees the implementor.
+
+The external stakeholders in this scenario would be the social media users who are
+interested in fact checking the news that they get from their social media platforms. By simply
+searching for the hashtags or some keywords related to the post they want to check on our
+platform, they will pull up articles from reliable news outlets which would clarify if the news they
+just saw was correct or false. This website will be used as a means to stop the spread of
+misinformation on social media platforms. It will be implemented as a handy add-on feature for
+the social media users concerned about the reliability of their viral feeds.
+As a team, we are first going to extract top 100 hashtags which are related to social or
+political events. These hashtags may have a specific indication or also may be a source that
+creates misinformation on social media platforms. So, we will then undertake a comparison
+analysis of these hashtags with reliable news platform sources which can help us to do
+fact-checking. For example, #metoo tag went viral a couple of years back but it indicated a
+different meaning when it was used popularly on social media. So, fact-checking will help us
+with the correctness of information. To conclude, the primary goal of our task is to put out the
+news article on a website which has more than 60% accuracy. The requirement for the project
+would be a database management system to store and retrieve the data like Microsoft Access.
+We will also use tools to do web scraping for extracting the data from a website.
+We plan to develop a fact checking system via python and data mining. We will start off
+by data extraction through popular social media platforms. To be more specific, we begin by
+using Twitter as our primary source of hashtags. We build a simple hashtag extracter using the
+tweepy library. Our goal here is to provide solid news sources. We are going to use the
+PyGoogleNews module which acts as a wrapper library for the Google RSS feed. Once we do
+this, we will need a database for information storage. For this, we will be using Access and
+integrating with real-time data extraction and manipulation. Finally, in order to make it
+user-accessible we plan to build this on a Drupal web page which will have the functionality to
+be able to search through those hashtags.
