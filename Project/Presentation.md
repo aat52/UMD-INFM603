@@ -18,3 +18,6 @@ The grade for this assignment is for your presentation -- note that it is your t
 
 ### Score: 5/5
 Final Presentation Upload: https://umd.instructure.com/media_objects_iframe/m-4SNPrkRJxkB3gp2JfYMyP9QrfPXHNSzU?type=video?type=video
+
+## Feedback
+Great work on the project -- really impressive progress on a complex programming task! Excellent presentation, and useful reflections on limitations and what was learned.
