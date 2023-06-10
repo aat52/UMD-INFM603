@@ -27,7 +27,7 @@ Abdul Shaik
 
 Sadaf Davre
 
-Project Proposal
+<p align="center"> Project Proposal </p>
 
 Team 9 consists of 4 members. Angela Tseng acts as the Project Manager, monitoring
 the activities of the team and supporting wherever is needed. Yogesh Boricha handles the role
@@ -41,6 +41,7 @@ platform, they will pull up articles from reliable news outlets which would clar
 just saw was correct or false. This website will be used as a means to stop the spread of
 misinformation on social media platforms. It will be implemented as a handy add-on feature for
 the social media users concerned about the reliability of their viral feeds.
+
 As a team, we are first going to extract top 100 hashtags which are related to social or
 political events. These hashtags may have a specific indication or also may be a source that
 creates misinformation on social media platforms. So, we will then undertake a comparison
@@ -51,6 +52,7 @@ with the correctness of information. To conclude, the primary goal of our task i
 news article on a website which has more than 60% accuracy. The requirement for the project
 would be a database management system to store and retrieve the data like Microsoft Access.
 We will also use tools to do web scraping for extracting the data from a website.
+
 We plan to develop a fact checking system via python and data mining. We will start off
 by data extraction through popular social media platforms. To be more specific, we begin by
 using Twitter as our primary source of hashtags. We build a simple hashtag extracter using the
@@ -60,3 +62,42 @@ this, we will need a database for information storage. For this, we will be usin
 integrating with real-time data extraction and manipulation. Finally, in order to make it
 user-accessible we plan to build this on a Drupal web page which will have the functionality to
 be able to search through those hashtags.
+
+|Date Due |Task |Parties Responsible|
+| ----------- | ----------- |  ----------- |
+|30 October |Requirements consolidation |PM|
+|30 October |Website wireframing |Designer|
+|30 October |Database design |Implementation Lead, Implementor|
+|1 November |Project Detailed Design |PM, Designer,Implementation Lead, Implementor|
+|6 November |Website programming |PM, Designer|
+|6 November |Database programming |PM, Implementation Lead, Implementor|
+|6 November |System description |PM|
+|8 November |Prototype evaluation |PM, Designer, Implementation Lead, Implementor|
+|11 November |Prototype fixing |PM, Designer, Implementation Lead, Implementor|
+|15 November |Project Prototype |PM, Designer, Implementation Lead, Implementor|
+|20 November |Prototype fixing |PM, Designer, Implementation Lead, Implementor|
+|22 November |Prototype evaluation |PM, Designer, Implementation Lead, Implementor|
+|26 November |Prototype finishing touches |Designer, Implementation Lead, Implementor|
+|26 November |Project change documentation |PM|
+|26 November |System documentation |Implementation Lead, Implementor|
+|26 November |Project test plan/result documentation |PM, Designer, Implementation Lead, Implementor|
+|29 November |Project Test Report |PM, Designer, Implementation Lead, Implementor|
+|2 December |Slide deck design |PM, Designer|
+|2 December |Documentation consolidation |PM|
+|4 December |Slide content |PM, Designer, Implementation Lead|
+|4 December |Demo creation |Implementation Lead, Implementor|
+|4 December |Project reflection |PM, Designer, Implementation Lead, Implementor|
+|6 December |Project Presentation |PM, Designer, Implementation Lead, Implementor|
+
+Websites which we can use for coding and development:
+1. https://medium.com/the-brainwave/how-to-get-trending-hashtags-on-twitter-in-2022-with-
+python-ba4e18f3da64
+2. https://python.plainenglish.io/building-a-news-scraping-twitter-bot-in-python-28eabe17823e
+3. https://newscatcherapi.com/blog/python-web-scraping-libraries-to-mine-news-data
+
+## Feedback
+- try SolR and not Drupal
+- database component not necessary
+- this is a 3 part project; data parsing, database, and website
+  - not feasible; pick one part to attempt
+
